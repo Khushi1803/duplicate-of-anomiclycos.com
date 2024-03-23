@@ -1,0 +1,227 @@
+*{
+    font-family: 'Martel Sans', sans-serif;
+    line-height: 1.8em;
+}
+.body{
+    margin-left:80 px;
+    margin-right: 80px;
+    background-color: rgb(223, 188, 212);
+}.navbar{
+height: 98px;
+z-index: 1000000;
+}
+.hov{
+    color: rgb(225, 151, 12);
+}
+.half{
+    background-color: #0E707D;
+     box-sizing: border-box;
+     padding: 80px;
+     height: 100%;
+     color: white;
+     padding-top: 150px;
+     
+}
+.half:hover{
+    .hov{
+    color: black;
+    }
+}
+.h6{
+    font-weight: 400;
+}
+.container5{
+    border: 2px solid orange;
+    height: 97px;
+    flex-wrap: wrap;
+    margin-top: -39px;
+    display: flex;
+    margin-right: auto;
+    margin-left: auto;
+    position: relative;
+    box-sizing: border-box;
+    max-width: 1140px;
+    padding-left: 70px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color: white;
+    padding-right: 20px;
+}
+.button4{
+    border: none;
+    border-color:#0E707D;
+color: white;
+height: 50px;
+width: 150px;
+background-color: #0E707D;
+}
+.button4:hover{
+    color: #0E707D;
+    background-color: orange;
+}
+.heading{
+    font-family: "Martel", Sans-serif;
+    font-size: 52px;
+    font-weight: 600;
+    line-height: 1.3em;}
+.heading1{
+    font-size: 32px;
+    font-weight: 600;
+    line-height: 1.3em;
+    font-family: 'Catamaran', sans-serif;
+}
+.hov1{
+    color:#0E707D;;
+}
+.hov1:hover{
+    color: black;
+}
+.container1{
+    margin: 20px;
+}
+.half1{
+    align-items: right;
+}
+.navbar{
+    position: fixed;
+    width: 90%;
+    margin-right: 50px;
+}
+.card-body{
+    border-radius: 5px;
+    background-color: #0E707D;;
+    padding: 40px;
+}
+.card-title{
+    color: orange;
+}
+.button1{
+    align-content: center;
+    background-color: #0E707D;;
+    color: orange;
+    margin-left: 150px;
+    border: none;
+    font-size: 16px;
+    height: 50px;
+    width: 150px;
+}
+.button1:hover,.button2:hover{
+    background-color: orange;
+    color:#0E707D;  ;
+    
+}
+.col-md-6{
+    grid-gap: 40px 50px;
+}
+.card-body{
+    height: 300px;
+}
+.box1:hover{
+    border-bottom: 2px solid orange;
+}
+.button2{
+    background-color: white;
+    border-color: white;
+    border: none;
+    margin-left: 150px;
+    font-size: 16px;
+    height: 50px;
+    width: 150px;
+
+}
+.card-body1{
+    padding-left: 80px;
+    padding-top: 30px;
+    margin: 50px;
+}
+#arrow {
+    border-right:2px solid black;
+    border-bottom:2px solid black;
+    width:10px;
+    height:10px;
+    transform: rotate(-45deg);
+    margin-top:40px;
+}
+.btn-icon1{
+    background-color: orange;
+   
+    color:#0E707D; ;
+    width: 100%;
+}
+.btn-icon1:hover{
+    background-color: #0E707D;;
+    color: white;
+    border-color: orange;
+}
+.container4{
+    background-color: #0E707D;
+    color: white; 
+    height: 300px;
+    padding: 100px;
+    padding-top: 50px;
+    padding-bottom: 70px;
+    
+}
+hr.new1{
+    border: 2px solid yellow;
+    width: 60px;
+}
+
+#first-name #last-name {
+    width: 130px;
+    border-radius:0;
+}
+.col-md-5{
+    height: 800px;
+    padding: 60px;
+    margin-left: 110px;
+    margin-right: 25px;
+}
+.button3{
+    color: white;
+    width: 850px;
+    justify-content: center;
+    margin-left: 0;
+    height: 50px;
+    background-color: #0E707D
+}
+.button3:hover{
+    background-color:orange;
+    color: #0E707D;
+    }
+.button{
+    border-radius: 0;
+}
+.box4:hover{
+    border-bottom: 3px solid orange;
+}
+.sub{
+    font-size: 13px;
+    font-weight: 600;
+    line-height: 1.3em;
+    letter-spacing: 0.3;
+    color: #0E707D;
+}
+.p{
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+}
+.box3{
+    line-height: 1.8em;
+    font-family: "Martel", Sans-serif;
+    font-size: 1.3rem;
+}
+.button5{
+    background-color: orange;
+    color: #0E707D;
+    border-color: orange;
+    height: 50px;
+width: 150px;
+
+}
+.button5:hover{
+    background-color: #0E707D;
+    color: white;
+    border-color: orange;
+}
